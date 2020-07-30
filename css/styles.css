@@ -10137,5 +10137,9 @@ section.resume-section .resume-section-content {
 /* Custom CSS for Yan Sun site */
 
 li:not(:last-child) {
-    padding-bottom: .8rem;
+  padding-bottom: .8rem;
+}
+
+li a {
+  font-weight: bold;
 }
