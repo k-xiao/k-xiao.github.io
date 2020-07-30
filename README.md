@@ -1,2 +1,2 @@
-# yan-sun-website
-The official website of Yan Sun.
+# k-xiao.github.io
+Hosts the official website of Yan Sun.
