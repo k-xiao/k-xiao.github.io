@@ -10143,3 +10143,7 @@ li:not(:last-child) {
 li a {
   font-weight: bold;
 }
+
+.chinese {
+  font-size: 3rem;
+}
