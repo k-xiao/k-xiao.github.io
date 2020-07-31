@@ -10148,6 +10148,32 @@ li strong {
   color: #4A4A4A;
 }
 
-.chinese {
-  font-size: 1.2rem;
+
+.ys-name {
+  display:flex;
+  //justify-content:center;
+  align-items:center;
+  border: 1px solid red;
+  height: 6rem;
+
+}
+
+.ys-english {
+  display: inline-block;
+  border: 1px solid red;
+  height: 6rem;
+}
+
+.ys-chinese {
+  display: inline-block;
+  border: 1px solid red;
+  height: 6rem;
+  padding-top: .76rem;
+  padding-left: 1.5rem;
+}
+
+.ys-chinese-text {
+  font-size: 3rem;
+  line-height: 6rem;
+  color: #6c757d;
 }
