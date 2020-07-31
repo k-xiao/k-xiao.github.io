@@ -10157,14 +10157,14 @@ li strong {
 }
 
 .ys-english {
-  display: inline-block;
+  display: block;
   height: 6rem;
   width: 16rem;
   //border: 1px solid red;
 }
 
 .ys-chinese {
-  display: inline-block;
+  display: block;
   height: 6rem;
   width: 8rem;
   padding-top: .76rem;
