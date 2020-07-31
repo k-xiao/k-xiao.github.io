@@ -10152,23 +10152,20 @@ li strong {
 .ys-name {
   display:flex;
   align-items:center;
-  //border: 1px solid red;
   height: 6rem;
 
 }
 
 .ys-english {
   display: inline-block;
-  //border: 1px solid red;
   height: 6rem;
 }
 
 .ys-chinese {
   display: inline-block;
-  //border: 1px solid red;
   height: 6rem;
   padding-top: .76rem;
-  padding-left: 1.8rem;
+  padding-left: 1.5rem;
 }
 
 .ys-chinese-text {
