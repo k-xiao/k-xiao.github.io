@@ -10144,6 +10144,10 @@ li a {
   font-weight: bold;
 }
 
+li strong {
+  color: #4A4A4A;
+}
+
 .chinese {
   font-size: 3rem;
 }
