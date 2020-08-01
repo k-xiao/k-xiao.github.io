@@ -10148,6 +10148,9 @@ li strong {
   color: #4A4A4A;
 }
 
+.reference {
+  font-size: .9rem;
+}
 
 .ys-name {
   //display:flex;
