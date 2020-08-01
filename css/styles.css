@@ -10185,7 +10185,7 @@ li strong {
   color: #6c757d;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 410px) {
   .ys-english, .ys-chinese {
     width: 100%;
   }
